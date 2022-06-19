@@ -1,0 +1,38 @@
+id: I04B58B3C
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:42:45.101686'
+last_modified: '2022-06-19T09:42:45.101698'
+parser: null
+source_metadata:
+  title: Hagiography of Zhwa lu mkhan chen dBang phyug rab brtan (1559–1636); Lamdre
+    Lobshe, vol. nga, title no. 5
+  author: ངག་དབང་བློ་བཟང་བརྒྱ་མཚོ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-03);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/571
+  bases:
+    28af:
+      title: Hagiography of Zhwa lu mkhan chen dBang phyug rab brtan (1559–1636);
+        Lamdre Lobshe, vol. nga, title no. 5
+      order: 1
+      base_file: 28af.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
